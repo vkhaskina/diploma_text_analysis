@@ -9,26 +9,26 @@
 
 ### Основные страницы
 
-![Начальная страница](docs/screenshots/main/StartPage.png)
+![Начальная страница](docs/main/StartPage.png)
 
 ### Конечные каталоги
 
-![Конечные каталоги](docs/screenshots/main/AllCatalogs.png)
+![Конечные каталоги](docs/main/AllCatalogs.png)
 
 
 ## Страница анализа каталога
 
 ### Анализ каталога
 
-![Краткий анализ](docs/screenshots/analysis/AnalysisPage1.png)
+![Краткий анализ](docs/analysis/AnalysisPage1.png)
 
-![Облако тегов](docs/screenshots/analysis/AnalysisPage2.png)
+![Облако тегов](docs/analysis/AnalysisPage2.png)
 
 ## Похожие каталоги
 
-![Каталоги с таким же именем](docs/screenshots/search/SameName.png)
+![Каталоги с таким же именем](docs/analysis/SameName.png)
 
-![Семантически похожие каталоги](docs/screenshots/search/SimilarSemantics.png)
+![Семантически похожие каталоги](docs/analysis/SimilarSemantics.png)
 
 
 
@@ -36,28 +36,28 @@
 
 ### K-Means
 
-![K-Means кластеры](docs/screenshots/clustering/ClustersKmeans.png)
+![K-Means кластеры](docs/clusters/ClustersKmeans.png)
 
-![K-Means статистика](docs/screenshots/clustering/KmeansStats.png)
+![K-Means статистика](docs/clusters/KmeansStats.png)
 
 
 ### DBSCAN
 
-![DBSCAN кластеры](docs/screenshots/clustering/ClustersDBSCAN.png)
+![DBSCAN кластеры](docs/clusters/ClustersDBSCAN.png)
 
-![DBSCAN статистика](docs/screenshots/clustering/DBSCANStats.png)
+![DBSCAN статистика](docs/clusters/DBSCANStats.png)
 
 ### Визуализация кластеров на плоскости
 
-![PCA проекция](docs/screenshots/analysis/PCAProjection.png)
+![PCA проекция](docs/clusters/PCAProjection.png)
 
 ### Динамика интереса к теме (по кластерам)
 
-![График динамики интереса](docs/screenshots/analysis/ThemeDynamic.png)
+![График динамики интереса](docs/clusters/ThemeDynamic.png)
 
 
 ## Поиск по ключевым словам
 
-![Поиск по словам](docs/screenshots/search/WordSearch.png)
+![Поиск по словам](docs/wordsearch/WordSearch.png)
 
-![Результаты поиска](docs/screenshots/search/WordSearchResult.png)
+![Результаты поиска](docs/wordsearch/WordSearchResult.png)

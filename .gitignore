@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+venv/
+env/
+Pipfile.lock
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+static/
+
+# Vue
+node_modules/
+dist/
+npm-debug.log
+package-lock.json
+yarn.lock
+.vscode/
+.idea/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store".venv/" 

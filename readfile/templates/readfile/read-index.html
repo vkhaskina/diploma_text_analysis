@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h2>Загрузите файл</h2>
+
+<form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Загрузить файл</button>
+</form>
+
+{% if dataframe %}
+    <h3>Результат:</h3>
+    <ul>
+    {% for column in dataframe %}
+        <li>{{ column }}</li>
+    {% endfor %}
+    </ul>
+{% endif %}
+
+{% endblock content %}
